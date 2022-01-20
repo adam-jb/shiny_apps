@@ -1,0 +1,6 @@
+raw_data/
+data/lsoa_shapefile/
+data/simple_postcodes_shapefile/
+data/lsoa_shapefile_simpler/
+data/simpler_nuts1_shp/
+.Rproj.user
