@@ -22,7 +22,7 @@ library(altair)
 library(bs4Dash)
 
 
-setwd("~/Desktop/shiny_apps/housing_search/housing_search")
+#setwd("~/Desktop/shiny_apps/housing_search/housing_search")
 nuts1_sample_points <- fread('data/nuts1_sample_points.csv', data.table = F)
 
 df <- fread('data/all_data_lsoa.csv', data.table = F) %>%

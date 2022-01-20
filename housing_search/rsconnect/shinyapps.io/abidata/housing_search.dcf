@@ -1,0 +1,10 @@
+name: housing_search
+title:
+username:
+account: abidata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5474992
+bundleId: 5488715
+url: https://abidata.shinyapps.io/housing_search/
+when: 1642681997.74625
